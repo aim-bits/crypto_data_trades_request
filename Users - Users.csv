@@ -1,0 +1,6 @@
+user_id,country,kyc_verified
+101,Nigeria,TRUE
+102,UK,TRUE
+103,Germany,FALSE
+104,Nigeria,TRUE
+105,Kenya,TRUE
